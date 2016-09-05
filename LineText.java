@@ -1,9 +1,6 @@
 package widget;
 
-/**
- * Created by igeek on 2016/9/1.
- * @author igeek2014@hotmail.com
- */
+
 public class LineText {
     private String text;
     private int startIndex;

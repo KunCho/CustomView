@@ -25,8 +25,6 @@ import java.util.List;
 /**
  * 缩放展开的动画简单Textview
  *
- * Created by igeek on 2016/9/1.
- * @author igeek2014@hotmail.com
  */
 public class ExpandTextView extends View implements View.OnClickListener {
 
